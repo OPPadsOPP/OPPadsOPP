@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Japan
+- 🔭 I’m currently working on kanagawa
 - 🌱 I’m currently learning FX
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
